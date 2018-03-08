@@ -1,12 +1,1 @@
-[
-	{"name": "Ella Katz",
-	"contact": "elka173@gmail.com",
-	"product": "3 tomatoes",
-	"address": "Rothchild 3 Tel Aviv",
-	"expiry_date": "2018-03-31"},
-	{"name": "Reut Golan",
-	"contact": "go.reut@gmail.com",
-	"product": "12 eggs",
-	"address": "Rothchild 39 Tel Aviv",
-	"expiry_date": "2018-03-20"},
-]
+{"1": {"product": "3 tomatoes", "contact": "elka173@gmail.com", "name": "Ella Katz", "expiry_date": "2018-03-31", "address": "Rothchild 3 Tel Aviv"}, "2": {"product": "12 eggs", "contact": "go.reut@gmail.com", "name": "Reut Golan", "expiry_date": "2018-03-20", "address": "Rothchild 39 Tel Aviv"}}
